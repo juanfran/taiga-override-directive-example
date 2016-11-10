@@ -1,3 +1,4 @@
 {
-    "js": "/plugins/taiga-override-directive-example/index.js"
+    "js": "/plugins/taiga-override-directive-example/index.js",
+    "css": "/plugins/taiga-override-directive-example/main.css"
 }
