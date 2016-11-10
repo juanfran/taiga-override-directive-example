@@ -9,3 +9,5 @@ Add to you conf.json in `taiga-front/dist/conf.json`
     "/plugins/taiga-override-directive-example/conf.json"
 ]
 ```
+
+this example will load main.css and index.js in your taiga instance, look the conf.json
